@@ -1,0 +1,40 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color:rgb(202, 201, 178);
+}
+
+.hit, .miss {
+	text-align: center;
+   font-size: 1.5em;
+   color: #fff;
+}
+
+.field {
+	display: flex;
+	flex-wrap: wrap;
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+	margin: auto;
+	background-color: rgb(45, 212, 92);
+}
+
+.cell {
+	width: 25%;
+	height: 25%;
+	border: 2px solid black;
+}
+
+.moll {
+	background-image: url('../img/image.png');
+  	background-repeat: no-repeat;
+  	background-size: contain;
+  	background-position: center;
+}
+
+.hammer {
+	cursor: url('../img/hammer1.png'), auto;
+}
