@@ -3,7 +3,6 @@ environment:
 
 branches:
   only:
-    - master  # ветка git
     - gh-pages
 
 cache: node_modules  # кеширование
