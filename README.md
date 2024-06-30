@@ -1,2 +1,1 @@
-![CI](https://github.com/AleksaT2/ahj-dom/actions/workflows/web.yml/badge.svg)
-https://aleksat2.github.io/ahj-events/
+[![Build status](https://ci.appveyor.com/api/projects/status/mfg0mfcpvrkw8iqt/branch/gh-pages?svg=true)](https://ci.appveyor.com/project/AleksaT2/ahj-events/branch/gh-pages)
